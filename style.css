@@ -15,7 +15,7 @@
     height: 100vh;
     width: 100%;
     /* background-color: red; */
-    background-image: url(./img\ 1\ \(1\).jpg);
+    background-image: url(./assets/img\ 1\ \(1\).jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -46,7 +46,7 @@
     height: 40px;
     width: 60%;
     /* background-color: rgb(63, 44, 80); */
-    background-image: url(./logo\ 1.png);
+    background-image: url(./assets/logo\ 1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -231,7 +231,7 @@ svg {
     height: 80vh;
     width: 30%;
     /* background-color: #bfa37c; */
-    background-image: url(./Main-home-vehicle-list-img-01.jpg);
+    background-image: url(./assets/Main-home-vehicle-list-img-01.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -278,7 +278,7 @@ svg {
     height: 80vh;
     width: 30%;
     /* background-color: #bfa37c; */
-    background-image: url(./Main-home-vehicle-list-img-02.jpg);
+    background-image: url(./assets/Main-home-vehicle-list-img-02.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -325,7 +325,7 @@ svg {
     height: 80vh;
     width: 30%;
     /* background-color: #bfa37c; */
-    background-image: url(./Main-home-vehicle-list-img-03.jpg);
+    background-image: url(./assets/Main-home-vehicle-list-img-03.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -385,7 +385,7 @@ svg {
     height: 80vh;
     width: 30%;
     /* background-color: #bfa37c; */
-    background-image: url(./Main-home-vehicle-list-img-04.jpg);
+    background-image: url(./assets/Main-home-vehicle-list-img-04.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -433,7 +433,7 @@ svg {
     height: 80vh;
     width: 30%;
     /* background-color: #bfa37c; */
-    background-image: url(./Main-home-vehicle-list-img-05.jpg);
+    background-image: url(./assets/Main-home-vehicle-list-img-05.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -481,7 +481,7 @@ svg {
     height: 80vh;
     width: 30%;
     /* background-color: #bfa37c; */
-    background-image: url(./Main-home-vehicle-list-img-06.jpg);
+    background-image: url(./assets/Main-home-vehicle-list-img-06.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -612,7 +612,7 @@ svg {
     /* border: 1px solid white; */
     margin-left: 15%;
     margin-top: 80px;
-    background-image: url(./Main-home-vehicle-list-img-01.jpg);
+    background-image: url(./assets/Main-home-vehicle-list-img-01.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -687,7 +687,7 @@ svg {
     height: 620px;
     /* border: 1px solid white; */
     margin-top: 40px;
-    background-image: url(./se5\ \(01\).jpg);
+    background-image: url(./assets/se5\ \(01\).jpg);
     background-position: center;
     background-size: cover;
     transition: 0.5s;
@@ -702,7 +702,7 @@ svg {
     height: 620px;
     /* border: 1px solid white; */
     margin-top: 40px;
-    background-image: url(./se5\ \(1\).jpg);
+    background-image: url(./assets/se5\ \(1\).jpg);
     background-position: center;
     background-size: cover;
     transition: 0.5s;
@@ -718,7 +718,7 @@ svg {
     width: 100%;
     height: 100vh;
     border: 1px solid black;
-    background-image: url(./se6.jpg);
+    background-image: url(./assets/se6.jpg);
     background-position: center;
     background-size: cover;
     text-align: right;
@@ -865,7 +865,7 @@ p {
     margin-left: 20%;
     display: flex;
     justify-content: space-evenly;
-    background-image: url(./se8\ \(01\).png);
+    background-image: url(./assets/se8\ \(01\).png);
     background-repeat: no-repeat;
     background-position: left;
     margin-top: 30px;
@@ -911,7 +911,7 @@ p {
     margin-left: 20%;
     display: flex;
     justify-content: space-evenly;
-    background-image: url(./se8\ \(02\).png);
+    background-image: url(./assets/se8\ \(02\).png);
     background-repeat: no-repeat;
     background-position: left;
     margin-top: 30px;
@@ -937,7 +937,7 @@ p {
     margin-left: 20%;
     display: flex;
     justify-content: space-evenly;
-    background-image: url(./se8\ \(03\).png);
+    background-image: url(./assets/se8\ \(03\).png);
     background-repeat: no-repeat;
     background-position: left;
     margin-top: 30px;
@@ -964,7 +964,7 @@ p {
     margin-left: 20%;
     display: flex;
     justify-content: space-evenly;
-    background-image: url(./se8\ \(04\).png);
+    background-image: url(./assets/se8\ \(04\).png);
     background-repeat: no-repeat;
     background-position: left;
     margin-top: 30px;
@@ -989,7 +989,7 @@ p {
     width: 100%;
     height: 300px;
     border: 1px solid black;
-    background-image: url(./se9.jpg);
+    background-image: url(./assets/se9.jpg);
     background-repeat: no-repeat;
     background-position: center;
 }
